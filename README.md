@@ -3,8 +3,8 @@ Architecture definitions for the project socialBook
 
 
 ## API Documentation
-[**book**](books.overview.md)
-[**discussion**](discussion.overview.md)
+[**book**](docs/api/v1/books/books.overview.md)
+[**discussion**](docs/api/v1/discussion/discussion.overview.md)
 
 
 ## MockUp
