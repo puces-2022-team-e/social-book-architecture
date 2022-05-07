@@ -17,6 +17,7 @@ Book Resource representation
 ```json
 	{
 		"_id":string,
+		"short":string,
 		"bookInfo":{
 			"title":string,
 			"subtile":string,
@@ -49,7 +50,8 @@ Book Resource representation
 
 | Propertie name                | Value   | Description                                  |
 | ----------------------------- | ------- | -------------------------------------------- |
-| \_id                          | string  | Unique identifier for a book                 |
+| \_id                          | string  | Unique identifier for a object               |
+| short                         | string  | Unique short identifier for a book           |
 | bookInfo                      | object  | General book Information                     |
 | bookInfo.tile                 | string  | Book title                                   |
 | bookInfo.subtile              | string  | Book title                                   |
