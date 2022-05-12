@@ -4,6 +4,7 @@ Architecture definitions for the project socialBook
 
 ## API Documentation
 [**book**](docs/api/v1/books/books.overview.md)
+[**commentary**](docs/api/v1/commentary/commentaries.overview.md)
 [**discussion**](docs/api/v1/discussion/discussion.overview.md)
 
 
@@ -13,7 +14,7 @@ Architecture definitions for the project socialBook
 
 ## Roadmap
 
-### v0.0.1 Version RoadMap & Features
+### v0.0.2 Version RoadMap & Features
 
 [ ] Add Books
 
